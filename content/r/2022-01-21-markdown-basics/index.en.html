@@ -1,0 +1,126 @@
+---
+title: 'Markdown Basics '
+author: Daniel
+date: '2022-01-21'
+slug: markdown-basics
+categories:
+  - R
+tags:
+  - R
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-21T22:23:14-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+<script src="{{< blogdown/postref >}}index.en_files/header-attrs/header-attrs.js"></script>
+
+
+<p><a href="https://rmarkdown.rstudio.com/authoring_basics.html">Quick reference here</a></p>
+<p><strong>Emphasis</strong><br />
+<em>italic</em> <strong>bold</strong></p>
+<p><strong>Headers</strong></p>
+<div id="header-1" class="section level1">
+<h1>Header 1</h1>
+<div id="header-2" class="section level2">
+<h2>Header 2</h2>
+<div id="header-3" class="section level3">
+<h3>Header 3</h3>
+<p><strong>Unordered List:</strong></p>
+<ul>
+<li>Item 1<br />
+</li>
+<li>Item 2
+<ul>
+<li>Item 2a<br />
+</li>
+<li>Item 2b</li>
+</ul></li>
+</ul>
+<p><strong>Ordered List:</strong></p>
+<ol style="list-style-type: decimal">
+<li>Item 1<br />
+</li>
+<li>Item 2<br />
+</li>
+<li>Item 3
+<ul>
+<li>Item 3a<br />
+</li>
+<li>Item 3b</li>
+</ul></li>
+</ol>
+<p><strong>R Code Chunks</strong></p>
+<pre class="r"><code>summary(cars$dist)</code></pre>
+<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##    2.00   26.00   36.00   42.98   56.00  120.00</code></pre>
+<pre class="r"><code>summary(cars$speed)</code></pre>
+<pre><code>##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##     4.0    12.0    15.0    15.4    19.0    25.0</code></pre>
+<p><strong>Inline R Code</strong><br />
+There were 50 cars studied</p>
+<p><strong>Use a plain http address or add a link to a phrase:</strong></p>
+<p><a href="http://example.com" class="uri">http://example.com</a><br />
+<a href="http://example.com">linked phrase</a></p>
+<p><strong>Images</strong><br />
+Images on the web or local files in the same directory:</p>
+<p><img src="http://example.com/logo.png" /></p>
+<div class="figure">
+<img src="figures/img.png" alt="" />
+<p class="caption">optional caption text</p>
+</div>
+<p><strong>Blockquotes</strong><br />
+A friend once said:</p>
+<blockquote>
+<p>It’s always better to give
+than to receive.
+Plain Code Blocks
+Plain code blocks are displayed in a fixed-width font but not evaulated</p>
+</blockquote>
+<pre><code>This text is displayed verbatim / preformatted</code></pre>
+<p><strong>Inline Code</strong><br />
+We defined the <code>add</code> function to<br />
+compute the sum of two numbers.</p>
+<p><strong>LaTeX Equations</strong><br />
+Inline equation:</p>
+<p>$ (n) = (n-1)!nN $</p>
+<p>Display equation:</p>
+<p><span class="math display">\[ \Gamma(n) = (n-1)!\quad\forall n\in\mathbb N \]</span></p>
+<p><strong>Horizontal Rule / Page Break</strong></p>
+<p><strong>Three or more asterisks or dashes:</strong></p>
+<hr />
+<hr />
+<p>Tables</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">第一列</th>
+<th align="right">第二列</th>
+<th align="left">第三列</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">第一列文本居中</td>
+<td align="right">第二列文本居右</td>
+<td align="left">第三列文本居左</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Reference Style Links and Images</strong></p>
+<p>A <a href="http://example.com/" title="Title">linked phrase</a>.</p>
+<p>At the bottom of the document:</p>
+<p>Images<br />
+<img src="figures/img.png" title="Title" alt="alt text" /></p>
+<p>At the bottom of the document:</p>
+<p><strong>superscript<sup>2</sup></strong></p>
+<p><strong><del>strikethrough</del></strong></p>
+</div>
+</div>
+</div>

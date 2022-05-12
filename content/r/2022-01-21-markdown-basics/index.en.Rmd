@@ -1,0 +1,139 @@
+---
+title: 'Markdown Basics '
+author: Daniel
+date: '2022-01-21'
+slug: markdown-basics
+categories:
+  - R
+tags:
+  - R
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-21T22:23:14-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+[Quick reference here](https://rmarkdown.rstudio.com/authoring_basics.html)    
+
+**Emphasis**  
+*italic*   **bold**   
+
+
+**Headers**     
+
+# Header 1   
+
+## Header 2   
+
+### Header 3    
+
+
+**Unordered List:**    
+
+* Item 1   
+* Item 2    
+    + Item 2a    
+    + Item 2b    
+    
+**Ordered List:**    
+
+1. Item 1   
+2. Item 2  
+3. Item 3  
+    + Item 3a  
+    + Item 3b  
+    
+**R Code Chunks**   
+
+
+
+```{r}
+summary(cars$dist)
+summary(cars$speed)
+```
+
+**Inline R Code**    
+There were `r nrow(cars)` cars studied    
+
+ 
+**Use a plain http address or add a link to a phrase:**    
+
+http://example.com   
+[linked phrase](http://example.com)   
+
+**Images**    
+Images on the web or local files in the same directory:   
+
+![](http://example.com/logo.png)   
+
+![optional caption text](figures/img.png)    
+
+**Blockquotes**       
+A friend once said:   
+
+> It's always better to give
+> than to receive.
+Plain Code Blocks
+Plain code blocks are displayed in a fixed-width font but not evaulated
+
+```
+This text is displayed verbatim / preformatted
+```    
+
+**Inline Code**  
+We defined the `add` function to  
+compute the sum of two numbers.  
+
+**LaTeX Equations**   
+Inline equation:    
+
+$ \Gamma(n) = (n-1)!\quad\forall n\in\mathbb N $   
+
+Display equation:
+
+$$ \Gamma(n) = (n-1)!\quad\forall n\in\mathbb N $$
+    
+**Horizontal Rule / Page Break**    
+
+**Three or more asterisks or dashes:**     
+
+******
+
+------     
+
+
+Tables    
+
+| 第一列       | 第二列         | 第三列        |  
+|:-----------:| -------------:|:-------------|    
+| 第一列文本居中 | 第二列文本居右  | 第三列文本居左 |  
+
+
+
+**Reference Style Links and Images**   
+   
+A [linked phrase][1].  
+
+At the bottom of the document:   
+
+[1]: http://example.com/ "Title"   
+
+
+Images   
+![alt text][2]    
+
+At the bottom of the document:    
+
+[2]: figures/img.png "Title"    
+
+
+**superscript^2^**   
+
+**~~strikethrough~~**    
+
+

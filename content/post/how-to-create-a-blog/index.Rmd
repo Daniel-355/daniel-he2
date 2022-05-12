@@ -1,0 +1,100 @@
+---
+title: "How to build a blog"  
+ 
+date: '2022-01-19'
+ 
+weight: 1
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+---
+
+
+
+
+## How to build a blog  
+
+### log in **github**- new repository- code- https (copy to r repository url);   
+
+### install **git** (how to use git ? "git bash here", see my github)  
+* git global --global user.email  
+* git config --global user.name  
+* github branch, request, merge, commit (see my github)
+* r - commit- pull- push 
+
+### **r** file- new project- version control- repository url- directory (in your computer);  
+* updated r studio and r sofeware;  
+* install blogdown;knit;  
+* blogdown::new_site(theme= )  ; blogdown::new_site(theme = "gcushen/hugo-academic")   
+* blogdown::serve_site()  
+<https://www.youtube.com/watch?v=f6kyYjCVAs0> ;  
+
+* install usethis  
+* usethis::use_git(message= )  ; usethis::use_git(message= "initial commit") --then click on push    
+<https://www.youtube.com/watch?v=BHpkLJieXPE>;   
+
+* commit bottom  
+
+### log in **netlify** by using github- add new site- import a exist - github- repo-   depoly site 1- set up custom domain - settings- general - change site name- save- website.app -done   
+
+### use addins to create post   
+* create one layout then sub one layout folder (create a index file)   
+
+### one class folder  
+* config- menus- (change tabs)  
+* config- config- (change name of website)  
+* config- params- (change contact information)  
+* static- uploads -resume     
+
+### content 
+* content- admin and authors- change bio and name and credentials  
+* content- home - link config to sub folder (have to modify)- modify the whole   page by using rmd    
+* menu (name in tabs)- home (name in page)- sub folder- index (article title, contents)    
+* content- create sub folder with the same name in config menu   
+* content- slides - save sildes to show   
+    
+* weight: 0 1 2 3 4 5 ...order  
+* active: false  
+* picture need to have a website link  
+
+### usually need to restart r studio   
+
+### pay attention to format format format <https://hackmd.io/@mfrigaard/HJrcTTbV_>   
+* knitr::opts_chunk$set(echo = TRUE)    
+* use a pose format and addins 
+* delete examples
+
+ 
+
+### set dark mode
+* localStorage.setItem('wcTheme', 1); wowchemy-hugo-themes/wowchemy/assets/js/wowchemy-theming.js   
+
+### (show picture in title part) upload picture- change name to "featured.png/jpg"-set as follow in title part;    
+* image:   
+    caption: ""    
+    focal_point: ""      
+    preview_only: true     
+      
+### (add youtube vedio)- add embed- format autopay=1   
+* Mary had a little lamb.     
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/XCi3vsfPTFU?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>    
+      
+### center align   
+<div align="center">    
+
+![](https://img.zcool.cn/community/0187e861c8552f11013e8cd07ebbb8.gif)    
+
+</div>    
+
+     
+### embed bilibili video     
+
+https://blog.csdn.net/u013842501/article/details/105660616  
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,22 @@
+---
+title: Coming soon
+author: Daniel
+date: '2022-01-20'
+slug: coming-soon
+categories:
+  - talk
+tags:
+  - talk
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-20T00:30:32-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+It is coiming soon. 

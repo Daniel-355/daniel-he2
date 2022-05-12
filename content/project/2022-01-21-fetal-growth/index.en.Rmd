@@ -1,0 +1,28 @@
+---
+title: Fetal growth
+author: Daniel
+
+date: '2022-01-21'
+slug: fetal-growth
+categories:
+  - fetal growth
+tags:
+  - fetal growth
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-21T21:51:22-05:00'
+featured: no
+
+
+ 
+
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+  
+projects: []
+---
+I am engaging in analyzing [this project](https://www1.nichd.nih.gov/pages_sitedown/default.htm).   
+
