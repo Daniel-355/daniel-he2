@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Daniel He</title>
+    <link>https://academic-demo.netlify.app/project/</link>
+      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://academic-demo.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>My project -old </title>
+      <link>https://academic-demo.netlify.app/project/my-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/my-project/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/project/my-project/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;selected-old-projects&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Selected old Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Natural Science Foundation of China (81402689) (01 Jan. 2015–31 Dec. 2017) - (PI)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Cohort study of chronic non-communicable diseases in the Beijing-Tianjin-Hebei Region -National Key Research and Development Program— Precision Medicine Research (2016YFC0900603) (July 2016–Dec. 2020)- (participant).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fetal growth</title>
+      <link>https://academic-demo.netlify.app/project/fetal-growth/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/fetal-growth/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/project/fetal-growth/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I am engaging in analyzing &lt;a href=&#34;https://www1.nichd.nih.gov/pages_sitedown/default.htm&#34;&gt;this project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

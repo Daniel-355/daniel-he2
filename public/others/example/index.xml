@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📊 Learn Data Science | Daniel He</title>
+    <link>https://academic-demo.netlify.app/others/example/</link>
+      <atom:link href="https://academic-demo.netlify.app/others/example/index.xml" rel="self" type="application/rss+xml" />
+    <description>📊 Learn Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/others/example/featured.jpg</url>
+      <title>📊 Learn Data Science</title>
+      <link>https://academic-demo.netlify.app/others/example/</link>
+    </image>
+    
+    <item>
+      <title>Undergraduate students’ mentor</title>
+      <link>https://academic-demo.netlify.app/others/example/undergraduate-students-mentor/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/others/example/undergraduate-students-mentor/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A study on association between gestational weight gain and pregnancy outcomes among the overweight or obese pregnant women, 2017&lt;/li&gt;
+&lt;li&gt;Air pollution increases the number of daily online consults for respiratory system disease, 2016&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Societies and Reviewers</title>
+      <link>https://academic-demo.netlify.app/others/example/societies-and-reviewers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/others/example/societies-and-reviewers/</guid>
+      <description>&lt;h2 id=&#34;scientific-societies&#34;&gt;Scientific Societies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;International Biostatistics Society&lt;/li&gt;
+&lt;li&gt;Chinese Association of Clinical Epidemiology ( -2019)&lt;/li&gt;
+&lt;li&gt;The Asian Association for the Study of Diabetes ( -2019)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;peer-reviewers-of-journals&#34;&gt;Peer Reviewers of journals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Oncotarget (2016-2019)&lt;/li&gt;
+&lt;li&gt;Medicine (2015- 2019)&lt;/li&gt;
+&lt;li&gt;Psychology, Health &amp;amp; Medicine (2015- 2019)&lt;/li&gt;
+&lt;li&gt;Journal of Chinese General Practice (Chinese, 2015- 2019);&lt;/li&gt;
+&lt;li&gt;Journal of Medical Research (Chinese, 2014- 2019);&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,8 +20,8 @@ projects: []
 ---
 
 # Books and Book Chapters   
+* [My ebook](https://danielbook.netlify.app/). 
 *	He Dian (Associate Chief Editor). Chinese Statistics Dictionary of Biomedical Statistics-Field Survey. Beijing: China Statistics Press. 2020.  
-![](https://www.kfzimg.com/sw/kfzimg/3898/036988c5baa4fcb574_b.jpg)    
 *	He Dian (Contributor). Biostatistics: The Tutorial of Computer Operation. Beijing: Science Press. 2016.   
 *	He Dian (Associate Chief Editor). Application of Investigation and analysis techniques in public health: Methods of epidemiology in field survey. Beijing: People's Medical Publishing House. 2014.   
 *	He Dian (Contributor). Evidence based medicine: The basic contents and methods of evidence evaluation. Beijing: Higher Education Press. 2016. (English version)   

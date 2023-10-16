@@ -11,12 +11,12 @@ highlight_name: true
 interests:
 - Biostatistics
 - Machine Learning 
-- Visualization
+- Causality Inference
 
 organizations:
-- name: Tsinghua University (Peking Union Medical College)
+- name: Tsinghua University 
   url: https://www.pumch.cn/en/medical_students.html
-role: Biostatistician at NIH (contractor) 
+role: Senior Biostatistician at NIH (contractor) 
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,10 +37,10 @@ social:
   icon_pack: fab
   link:  
 superuser: true
-title: Daniel He (电)
+title: Daniel He
 ---
 
-Daniel He is a Biostatistician, working at NIH as a contractor. 
+Daniel He is a Senior Biostatistician, working at NIH as a contractor. 
 *	He is a proactive and self-driven professional with about 10 years of experience in data
 science, statistical analysis, data processing, and graphic visualization roles. Passionate and confident in
 communicating statistical analysis results to non-statistics, research team members in a clear and

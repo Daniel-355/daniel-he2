@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Daniel He</title>
+    <link>https://academic-demo.netlify.app/post/</link>
+      <atom:link href="https://academic-demo.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://academic-demo.netlify.app/post/</link>
+    </image>
+    
+    <item>
+      <title>How to build a blog</title>
+      <link>https://academic-demo.netlify.app/post/how-to-create-a-blog/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/how-to-create-a-blog/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/post/how-to-create-a-blog/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;how-to-build-a-blog&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;How to build a blog&lt;/h2&gt;
+&lt;div id=&#34;log-in-github--new-repository--code--https-copy-to-r-repository-url&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;log in &lt;strong&gt;github&lt;/strong&gt;- new repository- code- https (copy to r repository url);&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;install-git-how-to-use-git-git-bash-here-see-my-github&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;install &lt;strong&gt;git&lt;/strong&gt; (how to use git ? “git bash here”, see my github)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;git global –global user.email&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;git config –global user.name&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;github branch, request, merge, commit (see my github)&lt;/li&gt;
+&lt;li&gt;r - commit- pull- push&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-file--new-project--version-control--repository-url--directory-in-your-computer&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;r&lt;/strong&gt; file- new project- version control- repository url- directory (in your computer);&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;updated r studio and r sofeware;&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;install blogdown;knit;&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;blogdown::new_site(theme= ) ; blogdown::new_site(theme = “gcushen/hugo-academic”)&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;blogdown::serve_site()&lt;br /&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=f6kyYjCVAs0&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=f6kyYjCVAs0&lt;/a&gt; ;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;install usethis&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;usethis::use_git(message= ) ; usethis::use_git(message= “initial commit”) –then click on push&lt;br /&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=BHpkLJieXPE&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=BHpkLJieXPE&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;commit bottom&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;log-in-netlify-by-using-github--add-new-site--import-a-exist---github--repo--depoly-site-1--set-up-custom-domain---settings--general---change-site-name--save--website.app--done&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;log in &lt;strong&gt;netlify&lt;/strong&gt; by using github- add new site- import a exist - github- repo- depoly site 1- set up custom domain - settings- general - change site name- save- website.app -done&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;use-addins-to-create-post&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;use addins to create post&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;create one layout then sub one layout folder (create a index file)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;one-class-folder&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;one class folder&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;config- menus- (change tabs)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;config- config- (change name of website)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;config- params- (change contact information)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;static- uploads -resume&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;content&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;content- admin and authors- change bio and name and credentials&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;content- home - link config to sub folder (have to modify)- modify the whole page by using rmd&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;menu (name in tabs)- home (name in page)- sub folder- index (article title, contents)&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;content- create sub folder with the same name in config menu&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;content- slides - save sildes to show&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;weight: 0 1 2 3 4 5 …order&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;active: false&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;picture need to have a website link&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;usually-need-to-restart-r-studio&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;usually need to restart r studio&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;pay-attention-to-format-format-format-httpshackmd.iomfrigaardhjrcttbv_&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;pay attention to format format format &lt;a href=&#34;https://hackmd.io/@mfrigaard/HJrcTTbV_&#34; class=&#34;uri&#34;&gt;https://hackmd.io/@mfrigaard/HJrcTTbV_&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;knitr::opts_chunk$set(echo = TRUE)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;use a pose format and addins&lt;/li&gt;
+&lt;li&gt;delete examples&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;set-dark-mode&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;set dark mode&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;localStorage.setItem(‘wcTheme’, 1); wowchemy-hugo-themes/wowchemy/assets/js/wowchemy-theming.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;show-picture-in-title-part-upload-picture--change-name-to-featured.pngjpg-set-as-follow-in-title-part&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;(show picture in title part) upload picture- change name to “featured.png/jpg”-set as follow in title part;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;image:&lt;br /&gt;
+caption: “”&lt;br /&gt;
+focal_point: “”&lt;br /&gt;
+preview_only: true&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;add-youtube-vedio--add-embed--format-autopay1&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;(add youtube vedio)- add embed- format autopay=1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mary had a little lamb.&lt;br /&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/XCi3vsfPTFU?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;center-align&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;center align&lt;/h3&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.zcool.cn/community/0187e861c8552f11013e8cd07ebbb8.gif&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;embed-bilibili-video&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;embed bilibili video&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/u013842501/article/details/105660616&#34; class=&#34;uri&#34;&gt;https://blog.csdn.net/u013842501/article/details/105660616&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

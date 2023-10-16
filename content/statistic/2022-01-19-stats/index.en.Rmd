@@ -18,4 +18,4 @@ image:
   preview_only: no
 projects: []
 ---
-Let's begin a pleasure statistic journey. 
+Let's begin a pleasure statistic journey ([my ebook](https://danielbook.netlify.app/)). 

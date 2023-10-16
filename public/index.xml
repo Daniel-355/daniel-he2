@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel He</title>
+    <link>https://academic-demo.netlify.app/</link>
+      <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Daniel He</title>
+      <link>https://academic-demo.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>How to build a blog</title>
+      <link>https://academic-demo.netlify.app/post/how-to-create-a-blog/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/how-to-create-a-blog/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/post/how-to-create-a-blog/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;how-to-build-a-blog&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;How to build a blog&lt;/h2&gt;
+&lt;div id=&#34;log-in-github--new-repository--code--https-copy-to-r-repository-url&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;log in &lt;strong&gt;github&lt;/strong&gt;- new repository- code- https (copy to r repository url);&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;install-git-how-to-use-git-git-bash-here-see-my-github&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;install &lt;strong&gt;git&lt;/strong&gt; (how to use git ? “git bash here”, see my github)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;git global –global user.email&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;git config –global user.name&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;github branch, request, merge, commit (see my github)&lt;/li&gt;
+&lt;li&gt;r - commit- pull- push&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;r-file--new-project--version-control--repository-url--directory-in-your-computer&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;r&lt;/strong&gt; file- new project- version control- repository url- directory (in your computer);&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;updated r studio and r sofeware;&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;install blogdown;knit;&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;blogdown::new_site(theme= ) ; blogdown::new_site(theme = “gcushen/hugo-academic”)&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;blogdown::serve_site()&lt;br /&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=f6kyYjCVAs0&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=f6kyYjCVAs0&lt;/a&gt; ;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;install usethis&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;usethis::use_git(message= ) ; usethis::use_git(message= “initial commit”) –then click on push&lt;br /&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=BHpkLJieXPE&#34; class=&#34;uri&#34;&gt;https://www.youtube.com/watch?v=BHpkLJieXPE&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;commit bottom&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;log-in-netlify-by-using-github--add-new-site--import-a-exist---github--repo--depoly-site-1--set-up-custom-domain---settings--general---change-site-name--save--website.app--done&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;log in &lt;strong&gt;netlify&lt;/strong&gt; by using github- add new site- import a exist - github- repo- depoly site 1- set up custom domain - settings- general - change site name- save- website.app -done&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;use-addins-to-create-post&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;use addins to create post&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;create one layout then sub one layout folder (create a index file)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;one-class-folder&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;one class folder&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;config- menus- (change tabs)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;config- config- (change name of website)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;config- params- (change contact information)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;static- uploads -resume&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;content&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;content- admin and authors- change bio and name and credentials&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;content- home - link config to sub folder (have to modify)- modify the whole page by using rmd&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;menu (name in tabs)- home (name in page)- sub folder- index (article title, contents)&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;content- create sub folder with the same name in config menu&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;content- slides - save sildes to show&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;weight: 0 1 2 3 4 5 …order&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;active: false&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;picture need to have a website link&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;usually-need-to-restart-r-studio&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;usually need to restart r studio&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;pay-attention-to-format-format-format-httpshackmd.iomfrigaardhjrcttbv_&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;pay attention to format format format &lt;a href=&#34;https://hackmd.io/@mfrigaard/HJrcTTbV_&#34; class=&#34;uri&#34;&gt;https://hackmd.io/@mfrigaard/HJrcTTbV_&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;knitr::opts_chunk$set(echo = TRUE)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;use a pose format and addins&lt;/li&gt;
+&lt;li&gt;delete examples&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;set-dark-mode&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;set dark mode&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;localStorage.setItem(‘wcTheme’, 1); wowchemy-hugo-themes/wowchemy/assets/js/wowchemy-theming.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;show-picture-in-title-part-upload-picture--change-name-to-featured.pngjpg-set-as-follow-in-title-part&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;(show picture in title part) upload picture- change name to “featured.png/jpg”-set as follow in title part;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;image:&lt;br /&gt;
+caption: “”&lt;br /&gt;
+focal_point: “”&lt;br /&gt;
+preview_only: true&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;add-youtube-vedio--add-embed--format-autopay1&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;(add youtube vedio)- add embed- format autopay=1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mary had a little lamb.&lt;br /&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/XCi3vsfPTFU?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;center-align&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;center align&lt;/h3&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.zcool.cn/community/0187e861c8552f11013e8cd07ebbb8.gif&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;embed-bilibili-video&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;embed bilibili video&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/u013842501/article/details/105660616&#34; class=&#34;uri&#34;&gt;https://blog.csdn.net/u013842501/article/details/105660616&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate students’ mentor</title>
+      <link>https://academic-demo.netlify.app/others/example/undergraduate-students-mentor/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/others/example/undergraduate-students-mentor/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A study on association between gestational weight gain and pregnancy outcomes among the overweight or obese pregnant women, 2017&lt;/li&gt;
+&lt;li&gt;Air pollution increases the number of daily online consults for respiratory system disease, 2016&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My project -old </title>
+      <link>https://academic-demo.netlify.app/project/my-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/my-project/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/project/my-project/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;selected-old-projects&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Selected old Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Natural Science Foundation of China (81402689) (01 Jan. 2015–31 Dec. 2017) - (PI)&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Cohort study of chronic non-communicable diseases in the Beijing-Tianjin-Hebei Region -National Key Research and Development Program— Precision Medicine Research (2016YFC0900603) (July 2016–Dec. 2020)- (participant).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Societies and Reviewers</title>
+      <link>https://academic-demo.netlify.app/others/example/societies-and-reviewers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/others/example/societies-and-reviewers/</guid>
+      <description>&lt;h2 id=&#34;scientific-societies&#34;&gt;Scientific Societies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;International Biostatistics Society&lt;/li&gt;
+&lt;li&gt;Chinese Association of Clinical Epidemiology ( -2019)&lt;/li&gt;
+&lt;li&gt;The Asian Association for the Study of Diabetes ( -2019)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;peer-reviewers-of-journals&#34;&gt;Peer Reviewers of journals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Oncotarget (2016-2019)&lt;/li&gt;
+&lt;li&gt;Medicine (2015- 2019)&lt;/li&gt;
+&lt;li&gt;Psychology, Health &amp;amp; Medicine (2015- 2019)&lt;/li&gt;
+&lt;li&gt;Journal of Chinese General Practice (Chinese, 2015- 2019);&lt;/li&gt;
+&lt;li&gt;Journal of Medical Research (Chinese, 2014- 2019);&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fetal growth</title>
+      <link>https://academic-demo.netlify.app/project/fetal-growth/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/fetal-growth/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/project/fetal-growth/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I am engaging in analyzing &lt;a href=&#34;https://www1.nichd.nih.gov/pages_sitedown/default.htm&#34;&gt;this project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown Basics </title>
+      <link>https://academic-demo.netlify.app/r/markdown-basics/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/r/markdown-basics/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/r/markdown-basics/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/authoring_basics.html&#34;&gt;Quick reference here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Emphasis&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;italic&lt;/em&gt; &lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Headers&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&#34;header-1&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;div id=&#34;header-2&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;div id=&#34;header-3&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Unordered List:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Item 1&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 2
+&lt;ul&gt;
+&lt;li&gt;Item 2a&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 2b&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ordered List:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Item 1&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 2&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 3
+&lt;ul&gt;
+&lt;li&gt;Item 3a&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Item 3b&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;R Code Chunks&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars$dist)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##    2.00   26.00   36.00   42.98   56.00  120.00&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars$speed)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##     4.0    12.0    15.0    15.4    19.0    25.0&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Inline R Code&lt;/strong&gt;&lt;br /&gt;
+There were 50 cars studied&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Use a plain http address or add a link to a phrase:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://example.com&#34; class=&#34;uri&#34;&gt;http://example.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://example.com&#34;&gt;linked phrase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Images&lt;/strong&gt;&lt;br /&gt;
+Images on the web or local files in the same directory:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.com/logo.png&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;figures/img.png&#34; alt=&#34;&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;optional caption text&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Blockquotes&lt;/strong&gt;&lt;br /&gt;
+A friend once said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It’s always better to give
+than to receive.
+Plain Code Blocks
+Plain code blocks are displayed in a fixed-width font but not evaulated&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;This text is displayed verbatim / preformatted&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Inline Code&lt;/strong&gt;&lt;br /&gt;
+We defined the &lt;code&gt;add&lt;/code&gt; function to&lt;br /&gt;
+compute the sum of two numbers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX Equations&lt;/strong&gt;&lt;br /&gt;
+Inline equation:&lt;/p&gt;
+&lt;p&gt;$ (n) = (n-1)!nN $&lt;/p&gt;
+&lt;p&gt;Display equation:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[ \Gamma(n) = (n-1)!\quad\forall n\in\mathbb N \]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Horizontal Rule / Page Break&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Three or more asterisks or dashes:&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;Tables&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;center&#34;&gt;第一列&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;第二列&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;第三列&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;第一列文本居中&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;第二列文本居右&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;第三列文本居左&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Reference Style Links and Images&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;http://example.com/&#34; title=&#34;Title&#34;&gt;linked phrase&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At the bottom of the document:&lt;/p&gt;
+&lt;p&gt;Images&lt;br /&gt;
+&lt;img src=&#34;figures/img.png&#34; title=&#34;Title&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;At the bottom of the document:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;superscript&lt;sup&gt;2&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;del&gt;strikethrough&lt;/del&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://academic-demo.netlify.app/talk/coming-soon/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/coming-soon/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/talk/coming-soon/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;It is coiming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My books</title>
+      <link>https://academic-demo.netlify.app/publication/my-books/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-books/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/publication/my-books/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;books-and-book-chapters&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Books and Book Chapters&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;He Dian (Associate Chief Editor). Chinese Statistics Dictionary of Biomedical Statistics-Field Survey. Beijing: China Statistics Press. 2020.&lt;br /&gt;
+&lt;img src=&#34;https://www.kfzimg.com/sw/kfzimg/3898/036988c5baa4fcb574_b.jpg&#34; /&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;He Dian (Contributor). Biostatistics: The Tutorial of Computer Operation. Beijing: Science Press. 2016.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;He Dian (Associate Chief Editor). Application of Investigation and analysis techniques in public health: Methods of epidemiology in field survey. Beijing: People’s Medical Publishing House. 2014.&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;He Dian (Contributor). Evidence based medicine: The basic contents and methods of evidence evaluation. Beijing: Higher Education Press. 2016. (English version)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Publications</title>
+      <link>https://academic-demo.netlify.app/publication/my-publications/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/my-publications/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/publication/my-publications/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Please see my &lt;a href=&#34;https://scholar.google.com/citations?user=qLSBOZkAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grantz. Unified standard for fetal growth. Am J Obstet Gynecol 2021.&lt;img src=&#34;https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f29a96ee-e92b-47f8-b14a-4423295d19d5/gr1.jpg&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R skills</title>
+      <link>https://academic-demo.netlify.app/r/r-skills/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/r/r-skills/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/r/r-skills/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;R skills are here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAS skills</title>
+      <link>https://academic-demo.netlify.app/sas/sas-skills/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/sas/sas-skills/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/sas/sas-skills/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;SAS skills are here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stats </title>
+      <link>https://academic-demo.netlify.app/statistic/stats/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/statistic/stats/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/statistic/stats/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Let’s begin a pleasure statistic journey.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The first day</title>
+      <link>https://academic-demo.netlify.app/english/the-first-day/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/english/the-first-day/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/english/the-first-day/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Let’s begin to study English today!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://academic-demo.netlify.app/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://academic-demo.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

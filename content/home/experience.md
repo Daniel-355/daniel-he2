@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Biostatistician
+  - title: Senior Biostatistician
     company: National Institutes of Health (NIH)
     company_url: 'https://www.nichd.nih.gov/'
     company_logo: 

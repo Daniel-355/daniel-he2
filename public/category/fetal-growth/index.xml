@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fetal growth | Daniel He</title>
+    <link>https://academic-demo.netlify.app/category/fetal-growth/</link>
+      <atom:link href="https://academic-demo.netlify.app/category/fetal-growth/index.xml" rel="self" type="application/rss+xml" />
+    <description>fetal growth</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>fetal growth</title>
+      <link>https://academic-demo.netlify.app/category/fetal-growth/</link>
+    </image>
+    
+    <item>
+      <title>Fetal growth</title>
+      <link>https://academic-demo.netlify.app/project/fetal-growth/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/fetal-growth/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/project/fetal-growth/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I am engaging in analyzing &lt;a href=&#34;https://www1.nichd.nih.gov/pages_sitedown/default.htm&#34;&gt;this project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

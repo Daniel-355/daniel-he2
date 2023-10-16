@@ -18,4 +18,4 @@ image:
   preview_only: no
 projects: []
 ---
-R skills are here. 
+R skills are [here](https://rpubs.com/Daniel_He). 
