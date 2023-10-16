@@ -18,7 +18,6 @@
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/post/how-to-create-a-blog/</guid>
       <description>
-&lt;script src=&#34;https://academic-demo.netlify.app/post/how-to-create-a-blog/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;how-to-build-a-blog&#34; class=&#34;section level2&#34;&gt;
@@ -126,22 +125,17 @@ preview_only: true&lt;/li&gt;
 &lt;h3&gt;(add youtube vedio)- add embed- format autopay=1&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Mary had a little lamb.&lt;br /&gt;
-
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
 &lt;iframe src=&#34;https://www.youtube.com/embed/XCi3vsfPTFU?autoplay=1&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;center-align&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;center align&lt;/h3&gt;
-&lt;div align=&#34;center&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;https://img.zcool.cn/community/0187e861c8552f11013e8cd07ebbb8.gif&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;embed-bilibili-video&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;embed bilibili video&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/u013842501/article/details/105660616&#34; class=&#34;uri&#34;&gt;https://blog.csdn.net/u013842501/article/details/105660616&lt;/a&gt;&lt;/p&gt;
+&lt;!-- ### center align    --&gt;
+&lt;!-- &lt;div align=&#34;center&#34;&gt;     --&gt;
+&lt;!-- ![](https://img.zcool.cn/community/0187e861c8552f11013e8cd07ebbb8.gif)     --&gt;
+&lt;!-- &lt;/div&gt;     --&gt;
+&lt;!-- ### embed bilibili video      --&gt;
+&lt;!-- https://blog.csdn.net/u013842501/article/details/105660616   --&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -347,14 +341,13 @@ Inline equation:&lt;/p&gt;
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/my-books/</guid>
       <description>
-&lt;script src=&#34;https://academic-demo.netlify.app/publication/my-books/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;books-and-book-chapters&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Books and Book Chapters&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://danielbook.netlify.app/&#34;&gt;My ebook&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;He Dian (Associate Chief Editor). Chinese Statistics Dictionary of Biomedical Statistics-Field Survey. Beijing: China Statistics Press. 2020.&lt;br /&gt;
-&lt;img src=&#34;https://www.kfzimg.com/sw/kfzimg/3898/036988c5baa4fcb574_b.jpg&#34; /&gt;&lt;br /&gt;
 &lt;/li&gt;
 &lt;li&gt;He Dian (Contributor). Biostatistics: The Tutorial of Computer Operation. Beijing: Science Press. 2016.&lt;br /&gt;
 &lt;/li&gt;
@@ -372,13 +365,9 @@ Inline equation:&lt;/p&gt;
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/my-publications/</guid>
       <description>
-&lt;script src=&#34;https://academic-demo.netlify.app/publication/my-publications/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Please see my &lt;a href=&#34;https://scholar.google.com/citations?user=qLSBOZkAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Grantz. Unified standard for fetal growth. Am J Obstet Gynecol 2021.&lt;img src=&#34;https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f29a96ee-e92b-47f8-b14a-4423295d19d5/gr1.jpg&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -388,10 +377,9 @@ Inline equation:&lt;/p&gt;
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/r/r-skills/</guid>
       <description>
-&lt;script src=&#34;https://academic-demo.netlify.app/r/r-skills/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;R skills are here.&lt;/p&gt;
+&lt;p&gt;R skills are &lt;a href=&#34;https://rpubs.com/Daniel_He&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -414,10 +402,9 @@ Inline equation:&lt;/p&gt;
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/statistic/stats/</guid>
       <description>
-&lt;script src=&#34;https://academic-demo.netlify.app/statistic/stats/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;Let’s begin a pleasure statistic journey.&lt;/p&gt;
+&lt;p&gt;Let’s begin a pleasure statistic journey (&lt;a href=&#34;https://danielbook.netlify.app/&#34;&gt;my ebook&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
